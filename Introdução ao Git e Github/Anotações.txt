@@ -1,1 +1,10 @@
 Aula dia 28/02
+
+Como fazer:
+
+1 copiar http do github
+2 no gitbash usar o comando: git clone (link http) - para copiar o projeto do github
+3 fazer as alterações necessarias
+4 no gitbash usar o comando: git add .
+5 no gitbash usar o comando: git commit -m "Descrição das alterações"
+6 autorizar no github a alteração
