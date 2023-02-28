@@ -7,4 +7,5 @@ Como fazer:
 3 fazer as alterações necessarias
 4 no gitbash usar o comando: git add .
 5 no gitbash usar o comando: git commit -m "Descrição das alterações"
-6 autorizar no github a alteração
+6 no gitbash usar o comando: git push origin main
+7 autorizar no github a alteração
